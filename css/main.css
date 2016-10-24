@@ -1,0 +1,28 @@
+body {
+
+	margin:0;
+	padding:0;
+	/*background-image:url("http://ell.h-cdn.co/assets/15/07/1600x800/landscape_nrm_nrm_1423840661-graphichoroscopescombos-geminid.jpg");*/
+	background-repeat:no-repeat;
+	background-size:cover;
+
+}
+section{
+	display:block;
+		text-align: center;
+		margin-top:15%;
+
+}
+
+#txt{
+	width:50%;
+	height:40px;
+}
+#txt[value]{
+	font-size:1.3em;
+}
+.info{
+	margin-top:4%;
+	font-size:1.5em;
+}
+
